@@ -1,0 +1,101 @@
+---
+title: "CV"
+author: "Jessica Uhrin"
+date: "2023-01-26"
+output: 
+  vitae::moderncv:
+    theme: banking
+  html_document:
+    toc: true
+    toc_depth: 2
+  
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+## Education
+
+**PhD Food Science**
+
+Major: Food Engineering   
+Minor: Food Processing
+
+Cornell University       [*08/2020-Present			Ithaca, NY*]{style="float:left"}
+
+
+
+_Research Highlights_ 
+
+*	Rheological modeling of skim milk and lactose hydrolyzed skim milk powders and concentrates
+
+*	Supercritical CO~2~ Extrusion 
+
+*	Development of in-mouth disintegrating dairy powder-based products
+
+*	Analysis of complex carbohydrate polymerization within the Supercritical CO~2~ extrusion system  
+
+
+
+_Relevant Coursework_ 
+
+*	Mechanical Properties of Materials, Writing Research Proposals, Concepts of Product Development, Sensory Evaluation, Food Processing, Dairy Processing, Food Microbiology, Functional Foods & Dietary Supplements, Food Safety Assurance, and Python
+
+
+**B.S. Nutrition & Dietetics**
+
+Major: Nutrition & Dietetics   
+Minor: Exercise Science
+
+University of Pittsburgh     [*08/2015-04/2020			Pittsburgh, PA*]{style="float:left"}
+
+
+_Relevant Coursework_  
+
+*	Human Physiology, Exercise Physiology, Behavior Change Theory, Nutrition Assessment 1 & 2,  Clinical Biochemistry, Macronutrient Metabolism, Micronutrient Metabolism, Medical Nutrition Therapy 1 & 2, Functional Nutrition, and Food Service Management
+
+
+## Experience
+
+**Instrument Experience**
+
+*	Supercritical CO2 Extruder, Texture Analyzer, Gas Chromatography, Microfluidizer, Spray Drier, Rotary Evaporator (Benchtop and large scale 50L), Rheometer, Viscometer, Colorimeter
+
+**Certifications**   
+[*Implimenting SQF Systems Manufacturing *]{style="float:right"}
+[04/2021-Present: SQF Institute ]{style="float:left"}
+
+[*FSPCA Preventative Controls for Human Food*]{style="float:right"}
+[04/2021-Present: Food Safety Prev. Alliance]{style="float:left"}
+
+[*Registered Dietetic Technician (B.S. DTR)*]{style="float:right"}
+[08/2020-Present: Academy of Nutrition & Dietetics]{style="float:left"}
+
+[*ServSafe Manager Certified*]{style="float:right"}
+[01/2019-PresentNational Restaurant Association]{style="float:left"}
+
+
+**Professional Experience**
+Teaching Assistant: Food Safety Assurance
+01/2022-05/2022: Cornell University
+
+
+Teaching Assistant: Functional Nutrition & Lab
+01/2022-05/2022: University of Pittsburgh
+
+
+Researcher II: Pitt Department of Physical Medicine & Rehabilitation—Nutrition Related Health Outcomes in Adults with Spina Bifida
+10/2019-07/2020
+
+
+## Activities   
+_Food Science Graduate Student Peer Mentor_
+2023-Present: Cornell University
+
+_Food Science Graduate Student Organization_
+Vice President
+2022-Present: Cornell University
+
+_Pitt Club Cross Country_
+Travel Coordinator
+2015-2020: University of Pittsburgh
