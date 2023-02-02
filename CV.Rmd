@@ -16,7 +16,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 ## Education
 
-**PhD Food Science**
+**Ph.D. Food Science**
 
 Major: Food Engineering   
 Minor: Food Processing
@@ -25,7 +25,7 @@ Cornell University       [*08/2020-Present			Ithaca, NY*]{style="float:left"}
 
 
 
-_Research Highlights_ 
+##_Research Highlights_ 
 
 *	Rheological modeling of skim milk and lactose hydrolyzed skim milk powders and concentrates
 
